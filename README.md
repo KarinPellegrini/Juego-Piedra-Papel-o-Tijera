@@ -9,7 +9,7 @@ Realizamos este juego en la primera semana de la materia Front end 2 del curso C
   - [Screenshot](#screenshot)
   - [Built with](#built-with)
   - [Alumnos que hicieron el juego](#alumnos-que-hicieron-el-juego)
-  - [Profesora que propuso la actividad] (#profesora-que-propuso-la-actividad)
+  - [Profesora que propuso la actividad](#profesora-que-propuso-la-actividad)
 
 
 
